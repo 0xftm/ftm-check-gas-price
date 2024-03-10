@@ -1,0 +1,31 @@
+{
+  "name": "ftm-check-gas-price",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum gas price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xftm/ftm-check-gas-price.git"
+  },
+  "keywords": [
+    "ftm-check-gas-price",
+    "ethereum",
+    "gas",
+    "gas-price",
+    "eth",
+    "crypto"
+  ],
+  "author": "0xftm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xftm/ftm-check-gas-price/issues"
+  },
+  "homepage": "https://github.com/0xftm/ftm-check-gas-price#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ftm-gas-convert": "1.0.0"
+  }
+}
